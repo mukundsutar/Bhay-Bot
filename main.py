@@ -3,7 +3,7 @@ import random
 from discord.ext import commands, tasks
 from itertools import cycle
 
-BOT_TOKEN = "MTA2OTg5Njg0MTc0MDY5MzU0Ng.Guc0Po.MU-XYVTC6EoDKNYbglxnrAoqxOxWqu4Sap-Rx4"
+BOT_TOKEN = "something something"
 CHANNEL_ID = 1070022425724600411
 
 client = commands.Bot(command_prefix="-", intents=discord.Intents.all())
